@@ -1,0 +1,2 @@
+# Requires: deprecated-absence
+# (Not available on PyPI)
